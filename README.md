@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-1. Clone repository: git clone 
+1. Clone repository: git clone https://github.com/veeryaa/react-app-boilerplate.git
 2. npm install
 ```
 ## Dependencies
