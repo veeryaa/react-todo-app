@@ -1,0 +1,35 @@
+{
+  "name": "react-app-boilerplate",
+  "version": "0.0.1",
+  "description": "React App",
+  "main": "./src/index",
+  "scripts": {
+    "lint": "eslint \"src/**/*.{js,jsx}\"",
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [
+    "React",
+    "Single Page Application"
+  ],
+  "author": "veeryaa",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^7.22.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "parcel": "1.12.3",
+    "postcss": "^7.0.35",
+    "postcss-modules": "^3.2.2"
+  }
+}
