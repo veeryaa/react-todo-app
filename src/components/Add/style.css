@@ -1,0 +1,43 @@
+.add {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  margin: 5px;
+  width: 600px;
+}
+
+.input_add {
+  border: 1px solid #bdbdbd;
+  border-radius: 12px;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  width: 100%;
+  height: 45px;
+  padding: 10px;
+}
+
+.input_add:focus {
+  outline: none;
+}
+
+span {
+  margin: 5px;
+}
+
+.button_add {
+  background-color: #2f80ed;
+  border: none;
+  border-radius: 12px;
+  box-sizing: 10px;
+  color: white;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  height: 45px;
+  width: 100px;
+  padding: 10px;
+}
+
+.button_add:focus {
+  outline: none;
+}

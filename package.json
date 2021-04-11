@@ -1,7 +1,7 @@
 {
-  "name": "react-app-boilerplate",
+  "name": "todo-app",
   "version": "0.0.1",
-  "description": "React App",
+  "description": "Todo App",
   "main": "./src/index",
   "scripts": {
     "lint": "eslint \"src/**/*.{js,jsx}\"",

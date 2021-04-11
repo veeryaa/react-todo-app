@@ -1,0 +1,19 @@
+.active {
+  border-bottom: 1px solid blue;
+}
+
+.nav {
+  border-bottom: 1px solid #BDBDBD;
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  justify-content: space-around;
+  margin: 5px;
+  width: 600px;
+}
+
+p {
+  box-sizing: border-box;
+  cursor: pointer;
+  font-weight: 600;
+  padding-bottom: 5px;
+}

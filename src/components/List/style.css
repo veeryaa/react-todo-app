@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  margin: 5px;
+  font-family: 'Montserrat', sans-serif;
+  width: 60%;
+}
+
+.list > span {
+  margin-left: 5px;
+}
+
+.list_check {
+  border: 1px solid #828282;
+  border-radius: 4px;
+  width: 20px;
+  height: 20px;
+}
