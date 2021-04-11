@@ -1,13 +1,3 @@
-# React Boiler Plate
+# React Todo App
 
-## Setup
-```
-1. Clone repository: git clone https://github.com/veeryaa/react-app-boilerplate.git
-2. npm install
-```
-## Dependencies
-- React
-- ReactDOM
-- PostCSS - CSS Modules
-- Babel
-- ESLint
+![react to do](https://imgur.com/a/5jpaB29)
